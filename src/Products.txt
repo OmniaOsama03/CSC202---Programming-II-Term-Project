@@ -1,0 +1,12 @@
+1, T-shirt, Comfortable cotton t-shirt in various colors,25.0,5, clothing
+2, Moisturizer, Hydrating skincare moisturizer for all skin types,35.0,5, skincare
+3, Succulent, Low-maintenance indoor plant in a decorative pot,15.0,5, plant
+4, Smartphone, Latest smartphone with advanced features,900.0,5, electronics
+5, Dish Soap, Effective dishwashing liquid for sparkling clean dishes,5.0,5, cleaning
+6, Dress, Elegant evening dress for special occasions,120.0,5, clothing
+7, Facial Cleanser, Gentle facial cleanser for daily skincare routine,18.0,5, skincare
+8, Air Purifier, High-performance air purifier for clean indoor air,200.0,5, cleaning
+9, All-Purpose Cleaner, Versatile cleaner for various surfaces and stains,10.0,5, cleaning
+10, Plant Fertilizer, Nutrient-rich fertilizer for healthy plant growth,12.0,5, plant
+11,Phone,A very nice and shiny phone.buy.,900.0,5,electronics
+11,Phone,A very nice and shiny phone.buy.,900.0,5,electronics
